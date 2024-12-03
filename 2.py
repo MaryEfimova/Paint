@@ -135,3 +135,4 @@ class PaintWindow(ctk.CTk):
 if __name__ == "__main__":
     app = PaintWindow()
     app.mainloop()
+
