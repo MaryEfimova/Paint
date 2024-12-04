@@ -136,3 +136,4 @@ if __name__ == "__main__":
     app = PaintWindow()
     app.mainloop()
 
+""" Что-то новое!!! """
